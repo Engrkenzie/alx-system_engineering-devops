@@ -14,4 +14,5 @@
 | 9    | [100-process_and_pid_file](./100-process_and_pid_file)                                     |             |
 | 10   | [101-manage_my_process](./101-manage_my_process), [manage_my_process](./manage_my_process) |             |
 | 11   | [102-zombie.c](./102-zombie.c)                                                             |             |
-| By | [Ekene](https://github.com/Engrkenzie) |
+ 
+By  [Ekene](https://github.com/Engrkenzie) 

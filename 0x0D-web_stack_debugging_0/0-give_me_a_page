@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# FIXES AN APACHE SERVER IN A CONRAINER
-
-service apache2 restart
+# Run the Apache server on holbertonschoo/265-0 Docker container
+echo "ServerName localhost" > /etc/apache2
+# Start the apache2 service
+service apache2 start
